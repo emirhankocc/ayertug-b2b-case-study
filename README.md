@@ -67,6 +67,7 @@ flowchart TD
     C --> E[Prisma ORM]
     C --> F[Cloudflare R2]
     C --> G[TCMB Exchange Rate Service]
+```
 
 ## Screenshots
 

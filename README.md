@@ -67,3 +67,37 @@ flowchart TD
     C --> E[Prisma ORM]
     C --> F[Cloudflare R2]
     C --> G[TCMB Exchange Rate Service]
+
+## Screenshots
+
+The screenshots below use anonymized or demo data. No real customer or financial information is exposed.
+
+### Dealer dashboard
+
+Overview of the dealer account, financial summary and recent order activity.
+
+![Dealer dashboard](assets/account.png)
+
+### Product catalogue
+
+Product listing with category, brand, variant and pricing information.
+
+![Product catalogue](assets/homepage.png)
+
+### Order management
+
+Order workflow used by dealers, sales representatives and administrators.
+
+![Order management](assets/cart-checkout.png)
+
+### Login
+
+Dealer login.
+
+![Account login](assets/login-screen.png)
+
+### Dealer administration
+
+Administrative interface for dealer management, salesperson assignment and credit limits.
+
+![Dealer administration](assets/admin-dealer.png)
